@@ -3,7 +3,7 @@ package com.alti.practice.string;
 /**
  * 
  * @author syandagudita
- * 
+ * http://www.programcreek.com/2013/04/why-string-is-immutable-in-java/
  */
 
 public class StringOperations {
